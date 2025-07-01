@@ -1,0 +1,14 @@
+[
+{
+  "directory": "G:/code/temp/vpn_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/vpn_adu.dir/includes_CXX.rsp -g -o CMakeFiles\\vpn_adu.dir\\src\\vpn_adu\\main_vpn_adu.cpp.obj -c G:\\code\\temp\\vpn_project\\src\\vpn_adu\\main_vpn_adu.cpp",
+  "file": "G:/code/temp/vpn_project/src/vpn_adu/main_vpn_adu.cpp",
+  "output": "CMakeFiles/vpn_adu.dir/src/vpn_adu/main_vpn_adu.cpp.obj"
+},
+{
+  "directory": "G:/code/temp/vpn_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/vpn_adu.dir/includes_CXX.rsp -g -o CMakeFiles\\vpn_adu.dir\\src\\vpn_adu\\vpn_adu_flow.cpp.obj -c G:\\code\\temp\\vpn_project\\src\\vpn_adu\\vpn_adu_flow.cpp",
+  "file": "G:/code/temp/vpn_project/src/vpn_adu/vpn_adu_flow.cpp",
+  "output": "CMakeFiles/vpn_adu.dir/src/vpn_adu/vpn_adu_flow.cpp.obj"
+}
+]
